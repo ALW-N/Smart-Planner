@@ -95,5 +95,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- Email: officialalwintomy@example.com
+- Email: officialalwintomy@gmail.com
 - Linkedin: https://www.linkedin.com/in/alwin-tomy1/?trk=opento_sprofile_topcard
